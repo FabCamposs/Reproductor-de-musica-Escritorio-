@@ -1,0 +1,15 @@
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.csprojAssemblyReference.cache
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\MainWindow.g.cs
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\App.g.cs
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen_MarkupCompile.cache
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen_MarkupCompile.lref
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\bin\Debug\2doDelExamen.exe.config
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\bin\Debug\2doDelExamen.exe
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\bin\Debug\2doDelExamen.pdb
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\MainWindow.baml
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.g.resources
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\_2doDelExamen.Properties.Resources.resources
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.csproj.GenerateResource.cache
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.exe
+C:\Users\Fabricio\Desktop\2do semestre\Progrmacion Visual\2doDelExamen\2doDelExamen\obj\Debug\2doDelExamen.pdb
